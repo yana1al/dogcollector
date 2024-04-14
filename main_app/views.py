@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-from .models import Cat
+from .models import Dog
 
 # Create your views here.
 def home(request):
